@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.env
+
+# Python virtual env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit config (optional)
+.streamlit/
+
+# OS junk
+.DS_Store
